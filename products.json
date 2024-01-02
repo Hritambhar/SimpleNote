@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Meeting Notes",
+      "content": "Discuss quarterly goals and project updates.",
+      "createdAt": "2023-01-01T10:00:00Z",
+      "updatedAt": "2023-01-01T15:30:00Z"
+    },
+    {
+      "title": "Grocery List",
+      "content": "Milk, eggs, bread, vegetables, fruits.",
+      "createdAt": "2023-01-02T08:00:00Z",
+      "updatedAt": "2023-01-02T08:00:00Z"
+    },
+    {
+      "title": "Ideas for Project X",
+      "content": "Brainstorm and jot down ideas for the upcoming project.",
+      "createdAt": "2023-01-03T14:00:00Z",
+      "updatedAt": "2023-01-03T16:45:00Z"
+    }
+    
+  ]
+  
